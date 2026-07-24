@@ -14,7 +14,7 @@ English and German (toggle in top-right corner).
 
 Open `index.html` in any modern browser. No server required. No dependencies.
 
-Or play it live on GitHub Pages: https://mehregan59.github.io/WealthSim
+Or play it live on GitHub Pages: https://mehregan59.github.io/WealthSim_Text/
 
 ## Structure
 
